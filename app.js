@@ -26,7 +26,7 @@ let flights = [
     },
     {
         time:"22:55",
-        destination:"TU COLA",
+        destination:"TULOSE",
         flight:"GR  290",
         gate:"W  76",
         remarks:"DELAYED"
@@ -48,7 +48,7 @@ let flights = [
 
 ]
 
-const destination = ["LA QUIACA", "CHIRIPA", "CATAN", "LA SALADA", "MORON", "LANUS", "EL DOQUE", "SARANDI", "TU COLA", "VERGADURA", "CUQUINAGUA", "CHIRIMONGO", "MERLO", "KIKOLINA"]
+const destination = ["LA QUIACA", "CHIRIPA", "CATAN", "LA SALADA", "MORON", "LANUS", "EL DOQUE", "SARANDI", "TULOSE", "VERGURAS", "CUQUINAGUA", "CHIRIMONGO", "MERLO", "KIKOLINA", "CUCAMONGA", "CHICHILO", "NIORDOLO", "CACAHUET", "CHUPOSO"]
 
 const remarks = ["DELAYED", "CANCELLED", "ON TIME", "ON TIME", "ON TIME", "DELAYED"]
 
